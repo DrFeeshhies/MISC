@@ -45,7 +45,7 @@ Anim:AdjustSpeed(0.1)
 
 Anim.TimePosition = startTime
 
-Anim:AdjustSpeed(1.2)
+Anim:AdjustSpeed(0.5)
 
 task.wait(1.4)
 
@@ -67,7 +67,7 @@ Anim2:AdjustSpeed(0)
 
 Anim2.TimePosition = startTime
 
-Anim2:AdjustSpeed(1.2)
+Anim2:AdjustSpeed(0.3)
 
     end
 
