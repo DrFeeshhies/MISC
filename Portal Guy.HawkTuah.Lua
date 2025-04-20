@@ -218,7 +218,7 @@ function reallycooldummy()
 	AddAccessory(15744552888, "Torso", workspace.Live["Weakest Dummy"])
 	AddAccessory(18733289807, "Head", workspace.Live["Weakest Dummy"])
 	workspace.Live["Weakest Dummy"].Head:FindFirstChild("Dead Face").Texture = "http://www.roblox.com/asset/?id=12524633896"
-	workspace.Live["Weakest Dummy"].Humanoid.DisplayName = "Really Cool Dummy"
+	workspace.Live["Weakest Dummy"].Humanoid.DisplayName = "Made By Plex"
 end
 reallycooldummy()
 workspace.Live.ChildAdded:Connect(function(v)
