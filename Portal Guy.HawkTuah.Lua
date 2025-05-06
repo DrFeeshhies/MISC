@@ -31,7 +31,7 @@ end
 
 local AnimAnim = Instance.new("Animation")
 
-AnimAnim.AnimationId = "rbxassetid://100558589307006"
+AnimAnim.AnimationId = "rbxassetid://16524478599"
 
 local Anim = Humanoid:LoadAnimation(AnimAnim)
 
@@ -47,11 +47,11 @@ Anim.TimePosition = startTime
 
 Anim:AdjustSpeed(0.3)
 
-task.wait(2.4)
+task.wait(6)
 
 local AnimAnim2 = Instance.new("Animation")
 
-AnimAnim2.AnimationId = "rbxassetid://13497875049"
+AnimAnim2.AnimationId = "rbxassetid://15090101157"
 
 local Anim2 = Humanoid:LoadAnimation(AnimAnim2)
 
